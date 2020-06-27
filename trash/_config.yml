@@ -1,0 +1,7 @@
+theme: jekyll-theme-architect  # 自分が設定したいテーマ
+encding: utf-8
+plugins: 
+  - jekyll-github-metadata
+github : [metadata]
+repository: daikiclimate/daikicimate.github.io # 自分のアカウントとリポジトリを書きましょう
+
