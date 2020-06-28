@@ -30,7 +30,7 @@ twitter_username: itdk1996
 github_username:  daikiclimate
 
 # Build settings
-theme: Hacker
+theme: hacker
 plugins:
   - jekyll-feed
 
